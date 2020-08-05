@@ -1,0 +1,6 @@
+Henrique; 18
+Paula; 17
+Carla; 25
+Pedro; 45
+Ribamar; 23
+Maria; 40
