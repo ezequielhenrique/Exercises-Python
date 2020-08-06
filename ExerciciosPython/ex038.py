@@ -1,3 +1,5 @@
+# Escreva um programa que leia dois números inteiros e compare-os. mostrando na tela uma mensagem.
+
 n1 = int(input('Didite um número inteiro: '))
 n2 = int(input('Digite outro número: '))
 if n1 > n2:

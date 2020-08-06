@@ -1,3 +1,6 @@
+# A Confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua
+# categoria, de acordo com a idade:
+
 from datetime import date
 ano = int(input('Digite o ano de nascimento do atleta: '))
 idade = date.today().year - ano

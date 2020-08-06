@@ -1,3 +1,7 @@
+# Faça um programa que tenha uma função notas() que pode receber várias notas de alunos e vai retornar um dicionário
+# com as seguintes informações:
+
+
 def notas(*nota, sit=False):
     """
     -> Função para analizar nota e situação de vários alunos

@@ -1,3 +1,5 @@
+# Sistema em python utilizando modularização
+
 from time import sleep
 
 from modulos.ex115.lib.arquivo import *

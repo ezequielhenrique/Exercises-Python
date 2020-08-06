@@ -1,3 +1,6 @@
+# Crie um programa que tenha uma tupla com várias palavras (não usar acentos). Depois disso, você deve mostrar,
+# para cada palavra, quais são as suas vogais.
+
 palavras = ('Aprender', 'Programar', 'Python', 'Xadrez', 'Matemática', 'Cálculo',
             'Física', 'Poker', 'Futebol', 'Automação')
 for p in palavras:

@@ -1,3 +1,5 @@
+# Desenvolva um programa que leia quatro valores pelo teclado e guarde-os em uma tupla.
+
 numbers = (int(input('Digite um número inteiro: ')),
            int(input('Digite um número inteiro: ')),
            int(input('Digite um número inteiro: ')),

@@ -1,3 +1,6 @@
+# Crie uma tupla preenchida com os 20 primeiros colocados da Tabela do Campeonato Brasileiro de Futebol,
+# na ordem de colocação.
+
 times = ('Sport', 'São Paulo', 'Santos', 'Grêmio', 'Athletico-PR', 'Atlético-MG', 'Vasco',
          'Bragantino', 'Internacional', 'Palmeiras', 'Coritiba', 'Goiás', 'Fortaleza', 'Ceará',
          'Bahia', 'Botafogo', 'Atlético-GO', 'Fluminense', 'Corinthians', 'Flamengo')

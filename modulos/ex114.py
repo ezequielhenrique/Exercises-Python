@@ -1,3 +1,5 @@
+# Crie um código em Python que teste se o site determinado está acessível pelo computador usado.
+
 import urllib.error
 import urllib.request
 

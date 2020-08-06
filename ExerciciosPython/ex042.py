@@ -1,3 +1,5 @@
+# Refaça o DESAFIO 035 dos triângulos, acrescentando o recurso de mostrar que tipo de triângulo será formado:
+
 r1 = float(input('Comprimento da primeira reta: '))
 r2 = float(input('Comprimento da segunda reta: '))
 r3 = float(input('Comprimento da terceira reta: '))

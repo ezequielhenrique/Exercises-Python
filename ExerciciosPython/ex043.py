@@ -1,3 +1,6 @@
+# Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu Índice de Massa Corporal (IMC) e mostre
+# seu status:
+
 print('-' * 10, 'Cáuculo de IMC', '-' * 10)
 peso = float(input('Qual seu peso(kg)? '))
 altura = float(input('Qual a sua altura(m)? '))

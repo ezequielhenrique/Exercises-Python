@@ -1,3 +1,6 @@
+# Crie um programa que leia o nome e o preço de vários produtos. O programa deverá perguntar se o usuário vai
+# continuar ou não.
+
 print('-' * 40)
 print('MERCADO VIRTUAL'.center(40))
 print('-' * 40)

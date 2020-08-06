@@ -1,3 +1,6 @@
+# Faça um programa que mostre a tabuada de vários números, um de cada vez, para cada valor digitado pelo usuário.
+# O programa será interrompido quando o número solicitado for negativo.
+
 print('\033[1;30m-=' * 5, 'TABUADA v3.0', '-=' * 5)
 while True:
     n = int(input('\033[mTabuada do número: '))

@@ -1,3 +1,6 @@
+# Adapte o código do desafio #107, criando uma função adicional chamada moeda() que consiga mostrar os números como um
+# valor monetário formatado.
+
 from modulos.myModulos import moedas
 
 p = float(input('Digite o preço: R$ '))

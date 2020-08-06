@@ -1,3 +1,6 @@
+# Elabore um programa que calcule o valor a ser pago por um produto, considerando o seu preço normal e condição de
+# pagamento:
+
 preco = float(input('Qual o valor do produto: R$'))
 print('''Condição de pagamento:
 [1] À vista, dinheiro/cheque (10% de desconto)

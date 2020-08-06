@@ -1,3 +1,6 @@
+# Crie um programa que leia a idade e o sexo de várias pessoas. A cada pessoa cadastrada, o programa deverá perguntar
+# se o usuário quer ou não continuar. No final, mostre:
+
 pessoas18 = mulheres20 = homens = 0
 while True:
     print('-' * 40)

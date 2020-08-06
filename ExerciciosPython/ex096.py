@@ -1,3 +1,7 @@
+# Faça um programa que tenha uma função chamada área(), que receba as dimensões de um terreno retangular
+# (largura e comprimento) e mostre a área do terreno.
+
+
 def area(l1, l2):
     a = l1 * l2
     print(f'A área de um terreno de {l1}x{l2} é de {a:.2f}m²')

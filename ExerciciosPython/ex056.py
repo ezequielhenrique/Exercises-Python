@@ -1,7 +1,8 @@
-nome = ''
-idade = 0
-sexo = ''
-soma_idade = 0
+# Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. No final do programa, mostre: a média de idade
+# do grupo, qual é o nome do homem mais velho e quantas mulheres têm menos de 20 anos.
+
+nome = sexo = ''
+idade = soma_idade = 0
 h_maioridade = 0        # Homem de maior idade
 m_menorq20 = 0          # Mulheres com idade menor que 20
 h_velho = ''            # Nome do homem mais velho

@@ -1,3 +1,6 @@
+# Escreva um programa que leia um número N inteiro qualquer e mostre na tela os N primeiros elementos de uma
+# Sequência de Fibonacci.
+
 print('-' * 5, 'SEQUÊNCIA DE FIBINACCI', '-' * 5)
 n = int(input('Digite o número de termos: '))
 c = 3
